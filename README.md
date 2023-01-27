@@ -16,7 +16,7 @@ Aside from creating software solutions, I've also been responsible of managing s
 - Languages: TypesScript, Go, Dart, C#
 - Frameworks: Angular, React, ExpressJs, Flutter, .NET
 - Databases: Postgres, MongoDB, Microsoft SQL Server, MySQL
-- Tools: Docker, Github Actions, Azure, Figma
+- Tools: Docker, Github Actions, Azure
 
 As of now:
 - 🔭 I’m currently working on improving my skills in Flutter and Go.
