@@ -19,6 +19,6 @@ Aside from creating software solutions, I've also been responsible of managing s
 - Tools: Docker, Github Actions, Azure
 
 As of now:
-- 🔭 I’m currently working on improving my skills in Flutter and Go.
+- 🔭 I’m currently working on improving my skills in Go.
 - 🌱 I’m currently learning more on Networks, CI/CD and DevOps.
 - 😄 Pronouns: He/Him
