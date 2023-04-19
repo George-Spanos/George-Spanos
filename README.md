@@ -13,7 +13,7 @@ For most of my career I've been working with greek enterprises in the fields of 
 Aside from creating software solutions, I've also been responsible of managing some projects for the clients mentioned above. Having done that I consider myself capable of deeply understanding business needs and being able to prioritize what is useful software versus what is ideal. 
 
 **Tech Stack**:
-- Languages: TypesScript, Go, Dart, C#
+- Languages: JavaScript, TypesScript, Go, Dart, C#
 - Frameworks: Angular, React, ExpressJs, Flutter, .NET
 - Databases: Postgres, MongoDB, Microsoft SQL Server, MySQL
 - Tools: Docker, Github Actions, Azure
