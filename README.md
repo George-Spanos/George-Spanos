@@ -15,7 +15,7 @@ Aside from creating software solutions, I've also been responsible of managing s
 **Tech Stack**:
 - Languages: JavaScript, TypesScript, Go, Dart, C#
 - Frameworks: Angular, React, ExpressJs, Flutter, .NET
-- Databases: Postgres, MongoDB, Microsoft SQL Server, MySQL
+- Databases: Postgres, MongoDB, Microsoft SQL Server
 - Tools: Docker, Github Actions, Azure
 
 As of now:
