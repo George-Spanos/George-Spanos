@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/george-spanos/" target="_blank">
-  <img align="left" alt="George Spanos' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="George Spanos' LinkedIn" width="22px" src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=George-Spanos)
