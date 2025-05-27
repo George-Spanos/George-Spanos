@@ -6,18 +6,15 @@
 
 ![](https://komarev.com/ghpvc/?username=George-Spanos)
 
-Programmer and Entrepreneur with about 10 years of experience.
+Programmer with some 10 years of experience.
 
-I enjoy writing code and designing system that provide value to people.
+Trying to make programming a hobby again.
 
-For most of my career I've been working with enterprises in the fields of banking, insurance and energy sectors. I've been mostly a UI oriented Software Engineer, heavily relying on User Experience principles. Having worked with multiple technologies, my tech stack is quite versatile, making use of multiple patterns and practices I've learnt from different languages/frameworks over the years.
+For most of my career I've been working with enterprises in the fields of banking, insurance and energy sectors. I've written a lot of browser code. I'm a strong advocate of the opinion that strong CS fundamentals very much defines any good programmer.
 
-**Tech Stack**:
-- Languages: TypesScript, Go
-- Frameworks: Nuxt, Vue, Angular, Express
-- Databases: Postgres, MongoDB
-- CI/CD: Docker, Github Actions
+**Favorite languages**:
+- JavaScript, Go, Haskell, C
 
 As of now:
 - 🔭 I’m currently working as a Front End lead for project under the [gov.uk](https://www.gov.uk/) family. 
-- 🌱 My goal for 2024 is to learn more about Functional Programming, UX/UI Design and Research.
+- 🌱 My goal for 2025 is to try to redefine my place in this ever-evolving tech world. 
