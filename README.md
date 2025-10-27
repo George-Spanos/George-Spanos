@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Math student dropout that fell in love with programming some some 10 years ago.
+Math student dropout that fell in love with programming some 10 years ago.
 
 For most of my career I've been working with enterprises in the fields of banking, insurance and energy sectors. I've mostly written code for the web. I'm a strong advocate of the opinion that strong CS fundamentals very much defines any good programmer.
 
